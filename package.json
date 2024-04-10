@@ -1,8 +1,9 @@
 {
-  "name": "midnight-blue",
-  "displayName": "Midnight Blue",
-  "description": "Embrace the tranquility of the night sky with the Midnight Blue theme for Visual Studio Code.",
-  "version": "0.0.1",
+  "name": "stellar-dusk",
+  "displayName": "Stellar Dusk",
+  "description": "Embrace the tranquility of the night sky with the Stellar Dusk theme for Visual Studio Code.",
+  "version": "1.0.0",
+  "publisher": "MichealDev",
   "engines": {
     "vscode": "^1.88.0"
   },
@@ -12,7 +13,7 @@
     "url": "https:.//michealdev.com"
   },
   "repository": {
-    "url": "https://github.com/swayz8148/Midnight-Blue",
+    "url": "https://github.com/swayz8148/Stellar-Dusk",
     "type": "git"
   },
   "categories": [
@@ -21,9 +22,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Midnight Blue",
+        "label": "Stellar Dusk",
         "uiTheme": "vs-dark",
-        "path": "./themes/Midnight Blue-color-theme.json"
+        "path": "./themes/Stellar Dusk-color-theme.json"
       }
     ]
   }

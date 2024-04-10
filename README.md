@@ -8,5 +8,5 @@ This is a dark Blue theme for Visual Studio Code.
 ## Installation
 
 1. Open the Extensions sidebar in VS Code. `View → Extensions`
-2. Search for `Midnight Blue`, and install it.
-3. Go to `File → Preferences → Color Theme` (or `Ctrl+K Ctrl+T`) and select `Midnight Blue`.
+2. Search for `Stellar Dusk`, and install it.
+3. Go to `File → Preferences → Color Theme` (or `Ctrl+K Ctrl+T`) and select `Stellar Dusk`.
