@@ -1,0 +1,30 @@
+{
+  "name": "midnight-blue",
+  "displayName": "Midnight Blue",
+  "description": "Embrace the tranquility of the night sky with the Midnight Blue theme for Visual Studio Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "icon": "midnight-vsc-icon.png",
+  "author": {
+    "name": "Micheal",
+    "url": "https:.//michealdev.com"
+  },
+  "repository": {
+    "url": "https://github.com/swayz8148/Midnight-Blue",
+    "type": "git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Blue-color-theme.json"
+      }
+    ]
+  }
+}
