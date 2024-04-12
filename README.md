@@ -8,5 +8,5 @@ This is a dark Blue theme for Visual Studio Code.
 ## Installation
 
 1. Open the Extensions sidebar in VS Code. `View → Extensions`
-2. Search for `Stellar Dusk`, and install it.
-3. Go to `File → Preferences → Color Theme` (or `Ctrl+K Ctrl+T`) and select `Stellar Dusk`.
+2. Search for `Cherry Cosmos`, and install it.
+3. Go to `File → Preferences → Color Theme` (or `Ctrl+K Ctrl+T`) and select `Cherry Cosmo`.
