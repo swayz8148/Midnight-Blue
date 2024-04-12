@@ -1,9 +1,9 @@
 # Midnight Blue theme for Visual Studio Code
 
-This is a dark Blue theme for Visual Studio Code.
+This is a Dark Cherry Red theme for Visual Studio Code.
 
 ### Showcase of the theme
-![alt text](image.png)
+![alt text](cherry.png)
 
 ## Installation
 
