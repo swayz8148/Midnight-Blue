@@ -1,13 +1,13 @@
 {
-  "name": "stellar-dusk",
-  "displayName": "Stellar Dusk",
-  "description": "Embrace the tranquility of the night sky with the Stellar Dusk theme for Visual Studio Code.",
-  "version": "1.0.1",
+  "name": "cherry-cosmos",
+  "displayName": "Cherry Cosmos",
+  "description": "",
+  "version": "1.0.0",
   "publisher": "MichealDev",
   "engines": {
     "vscode": "^1.88.0"
   },
-  "icon": "midnight-vsc-icon.png",
+  "icon": "Cherry-Cosmos-vsc-icon.png",
   "author": {
     "name": "Micheal",
     "url": "https:.//michealdev.com"
@@ -22,9 +22,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Stellar Dusk",
+        "label": "Cherry Cosmos",
         "uiTheme": "vs-dark",
-        "path": "./themes/Stellar Dusk-color-theme.json"
+        "path": "./themes/Cherry Cosmos-color-theme.json"
       }
     ]
   }
